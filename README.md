@@ -1,4 +1,4 @@
-# Drug-claification
+# Drug-classification
 
 This dataset contains information about drug classification based on patient general information and its diagnosis. Machine learning model is needed to predict the outcome of the drug-type that will be suitable for the patient. There are 6 variables in this data set 4 categorical variables, and 2 continuous variables and 200 records. The aim is to perform data exploration, visualization and build Machine Learning models that will help in predicting drug type. The data has variables like Age, Sex, Blood Pressure Level, Cholesterol Level, Sodium to potassium Ratio in Blood and Drug Type.
 

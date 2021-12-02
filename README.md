@@ -9,7 +9,7 @@ This dataset contains information about drug classification based on patient gen
 4. Developed the solution using a well-made machine learning model with high confidence in predicting. the drug type (A, B, C, X,Y) that should be given to a particular patient based on their characteristics and which drug type will suit them best and seen that performance of most of the ML models can reach up to 80% accuracy in predicting classification of drug type. Although Support Vector Machine (SVM) had the highest accuracy of 84.29%.
 5. Transformed prediction in appropriate output format and generated output CSV file.
 
-# Machine Learning models:
+# Machine Learning models used:
 1.Linear Regression
 2.Logistic Regression
 3. Naïve-Bayes: Gaussian NB, Categorical NB, 
